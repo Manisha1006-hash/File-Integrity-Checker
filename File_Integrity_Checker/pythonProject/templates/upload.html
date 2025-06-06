@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="form-container">
+    <h2>Upload File</h2>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" class="form-control my-2" required>
+        <button type="submit" class="btn btn-success w-100">Check Integrity</button>
+    </form>
+</div>
+{% endblock %}

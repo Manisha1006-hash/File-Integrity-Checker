@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="form-container">
+    <h3>Result</h3>
+    <p><strong>Filename:</strong><br> <span class="text-break">{{ filename }}</span></p>
+    <p><strong>Status:</strong> {{ status }}</p>
+
+
+    <p><strong>SHA256 Hash:</strong><br>
+        <span class="text-break" title="{{ hash }}">{{ hash[:50] }}...</span>
+    </p>
+
+    <a href="{{ url_for('dashboard') }}" class="btn btn-info mt-3">Back to Dashboard</a>
+</div>
+{% endblock %}
