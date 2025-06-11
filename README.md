@@ -44,3 +44,16 @@ In summary, the File Integrity Checker is a secure and effective solution for an
    'pip install -r requirements.txt'
 4. Run through terminal via:
    'app.py'.
+
+# oUTPUT
+![Image](https://github.com/user-attachments/assets/1f833d27-d666-4143-9c25-dcb2cf4a6361)
+
+![Image](https://github.com/user-attachments/assets/90342a40-6f0d-4290-bd8b-c17ce13ab87c)
+
+![Image](https://github.com/user-attachments/assets/0c288b78-9e09-4196-abcc-5f8cd316fd7c)
+
+![Image](https://github.com/user-attachments/assets/98613cf6-621d-4a35-ac61-bb58b5f8cba6)
+
+![Image](https://github.com/user-attachments/assets/04291b45-cdf3-40c6-9a0f-e5eed8ee0ba6)
+
+![Image](https://github.com/user-attachments/assets/cb59f778-3a93-44f3-bfc2-41f728214814)
