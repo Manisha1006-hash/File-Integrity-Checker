@@ -22,7 +22,7 @@ The upload process is backed by Python's werkzeug and os modules for secure stor
 
 This project not only enhances technical proficiency in web development, cryptography, and security best practices but also replicates a real-world file monitoring system used in working environments to detect ransomware attacks, insider attacks, and unintentional modifications to files. It is an implementation of cyber security concepts in the real world and serves to cement the importance of integrity in the upholding of digital trust.
 
-In short, File Integrity Checker is a safe and efficient measure for any company or user who wants to secure their data from unauthorized modification. Its blend of hands-on functionality, security, and interactive convenience makes it not only an educational experience but also a valuable security utility.
+In short, File Integrity Checker is a safe and efficient measure for any company or user who wants to secure their data from unauthorized modification. Its blend of hands-on functionality, security, and interactive convenience makes it not only an educational experience but also a valuable security utility. It also includes proper logging and error handling mechanisms to ensure reliability and traceability. The tool can be extended further to send alerts or logs to centralized monitoring systems for enterprise use.
 
 # Technologies Used
 
